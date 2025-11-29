@@ -8,7 +8,7 @@ Powered by a Raspberry Pi Pico WH and an Adafruit IR transceiver module, this de
 🔗 https://wiki.hackhitchin.org.uk/index.php?title=User:DavidTurner  
 
 
-![White 3D printed enclosure on the trunking in the hackspace, with usb power lead](./pictures/unit_on_trunking.jpg ("assembled unit on the trunking in the hackspace")
+![White 3D printed enclosure on the trunking in the hackspace, with usb power lead](./pictures/unit_on_trunking.jpg "assembled unit on the trunking in the hackspace")
 
 ---
 
